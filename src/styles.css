@@ -1,0 +1,9 @@
+/* Add application styles & imports to this file! */
+
+* {
+  font-family: sans-serif;
+}
+
+ul {
+  padding: 0 20px;
+}

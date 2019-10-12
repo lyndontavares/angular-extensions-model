@@ -1,0 +1,15 @@
+.todo {
+  cursor: pointer;
+  font-weight: bold;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.todo .done {
+  text-decoration: line-through;
+  opacity: 0.3;
+}
+
+.todo button {
+  float: right;
+}
